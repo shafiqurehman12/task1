@@ -14,8 +14,8 @@
     gap: 10px;
 }
 .para img{
-    width:18%;
-
+    width:19%;
+padding-left:50px;
 }
 .para{
     display: flex;
@@ -37,9 +37,11 @@ display: flex;
 justify-content: space-around;
 }
 .para2 img{
-width:17%;
+width:19%;
 margin-top:2%;
 }
 .profile2 img{
     width:10%;
+    height: 30px;
+    padding-right:50px;
 }
