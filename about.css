@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(90, 85, 85);
+    
+}
+
+.profile2{
+text-align: center;
+}
+.container{
+color: aliceblue;
+/* display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr; */
+display: flex;
+/* gap: 10px; */
+
+
+
+}
+.container img{
+    width: 40%;
+    border-radius: 50%;
+    height: 20vh;
+
+
+}
+#about{
+    background-image: url(./imagestask2.jpg);
+    height: 100vh;
+}
+.container div{
+    background-color: aliceblue;
+    color: black;
+    /* width: 60%; */
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 0;
+    
+}
+.more{
+    padding-top:10%;
+    justify-content: space-around;
+}
